@@ -12,4 +12,4 @@
 ### Run server
 ```bun start```
 
-Deployed API base URI: https://contract-sims-prob-htqztkhbr.vercel.app/services
+Deployed API base URI: https://contract-sims-prob-htqztkhbr.vercel.app
